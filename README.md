@@ -1,5 +1,5 @@
 ## Idea of wake on lan
-You come home tired from working at Macdonald, you take a shower, grab some food
+You come home tired from working at Macdonalds, you take a shower, grab some food
 and come to your only escape from reality, that is your home computer that is already
 turned on! As far as I know, this is one use case for this script. Maybe YOU will find some other? I would love to hear some ideas.
 
